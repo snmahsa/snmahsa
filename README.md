@@ -41,15 +41,6 @@ or connect with following links :
 ![](https://github-contributor-stats.vercel.app/api?username=snmahsa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-writing_hand Random Dev Quote
-
-top Top Contributed Repo
-
-joy Random Dev Meme
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
 snmahsa/snmahsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
