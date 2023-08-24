@@ -14,8 +14,6 @@
 or connect with following links :
 <p align="left">
 <a href="https://linkedin.com/in/mahsa-sanaei-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahsa-sanaei-n" height="30" width="40" /></a>
-<a href="https://kaggle.com/snmahsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="snmahsa" height="30" width="40" /></a>
-<a href="https://instagram.com/moonsanaei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moonsanaei" height="30" width="40" /></a>
 </p>
 
 
