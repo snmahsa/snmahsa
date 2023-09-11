@@ -15,7 +15,9 @@ or connect with following links :
 <p align="left">
 <a href="https://linkedin.com/in/mahsa-sanaei-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahsa-sanaei-n" height="30" width="40" /></a>
 </p>
-
+<p align="left">
+<a href="https://mahsasanaee.ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahsa-sanaei-n" height="30" width="40" /></a>
+</p>
 
 # 💻 Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -27,7 +29,7 @@ or connect with following links :
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=snmahsa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=snmahsa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=snmahsa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -36,6 +38,7 @@ or connect with following links :
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 
