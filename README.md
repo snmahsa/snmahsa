@@ -4,7 +4,7 @@
 
 
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning  in the field of machine vision, computer vision and deep learning
+- 🌱 I’m currently learning  in the field of machine learning,deep learning
 - 🔭 My goal is to use my knowledge to make people's lives easier or solve their problems
 - 💬 Ask me about DIP, ML and DL
 - 📫 How to reach me : Scan the following QRcode
